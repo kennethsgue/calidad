@@ -2,7 +2,7 @@
  * @name        Simple Java Calculator
  * @package     ph.calculator
  * @file        Main.java
- * @author      SORIA Pierre-Henry
+ * @author      kenneth
  * @email       pierrehs@hotmail.com
  * @link        http://github.com/pH-7
  * @copyright   Copyright Pierre-Henry SORIA, All Rights Reserved.
